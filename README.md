@@ -6,7 +6,7 @@
 ---
 ## 🔗 Demo
 
-[![Click here to view the demo](https://img.shields.io/badge/🤗%20HuggingFace-FaceAging--AI-blue?logo=huggingface)](https://huggingface.co/spaces/parthmax/FaceAging-AI)
+[![Click here to view the demo](https://img.shields.io/badge/%20HuggingFace-FaceAging--AI-blue?logo=huggingface)](https://huggingface.co/spaces/parthmax/FaceAging-AI)
 
 ## Features
 
