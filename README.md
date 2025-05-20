@@ -133,5 +133,4 @@ Master’s in Artificial Intelligence & Machine Learning, IIIT Lucknow
 
 ---
 
-*FaceAging AI ©  Saksham Pathak. Powered by open-source AI and computer vision technologies.*
 
