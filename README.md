@@ -4,6 +4,9 @@
 **FaceAging AI** is an advanced AI-powered web application that transforms face images to appear older or younger with realistic results. It leverages deep learning models for face detection and age transformation, offering an intuitive interface for users to upload images and see instant aged or de-aged outputs.
 
 ---
+## 🔗 Demo
+
+[![Click here to view the demo](https://img.shields.io/badge/🤗%20HuggingFace-FaceAging--AI-blue?logo=huggingface)](https://huggingface.co/spaces/parthmax/FaceAging-AI)
 
 ## Features
 
